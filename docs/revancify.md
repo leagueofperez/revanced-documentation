@@ -41,13 +41,13 @@ Patching
 <img src="/images/revancify_2.png" width="400"/>
 
 > [!IMPORTANT]
-> If there is no `Auto Select` or `[RECOMMENDED]` option, follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, move the APK you downloaded into `Internal storage/Revancify/Stock`. Then, return to Revancify and press `Import` to import the APK you placed in the `Stock` directory.
+> If there is no `Auto Select` or `[RECOMMENDED]` option, follow the steps on [this page](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/supplying-an-apk.md). Then, move the APK you downloaded into `Internal storage/Revancify/Stock`. Then, return to Revancify and press `Import` to import the APK you placed in the `Stock` directory.
 >
 > <img src="/images/revancify_3.png" width="400"/>
 
 4. Choose patches to include or exclude. If you aren't sure, just press `Recommended`.
 
-- Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude.
+- Read [this document](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude.
 
 > [!IMPORTANT]
 > For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.

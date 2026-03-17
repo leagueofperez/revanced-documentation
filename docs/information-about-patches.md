@@ -3,11 +3,11 @@ Information about the patches
 
 The patch list for each app can be found using these links: 
 
-[**YouTube**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidyoutube)
+[**YouTube**](https://github.com/leagueofperez/revanced-patches/tree/revanced-extended#-comgoogleandroidyoutube)
 
-[**YouTube Music**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
+[**YouTube Music**](https://github.com/leagueofperez/revanced-patches/tree/revanced-extended#-comgoogleandroidappsyoutubemusic)
 
-[**Reddit**](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-comredditfrontpage)
+[**Reddit**](https://github.com/leagueofperez/revanced-patches/tree/revanced-extended#-comredditfrontpage)
 
 
 

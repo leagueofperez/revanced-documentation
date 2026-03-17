@@ -1,6 +1,6 @@
 ### 1. Check the supported app versions
 
-Check the JSON format in the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
+Check the JSON format in the [README.md](https://github.com/leagueofperez/revanced-patches/tree/revanced-extended#-json-format) of the revanced-patches repository to see which app versions are supported.
 
 > [!TIP]
 > 
@@ -29,7 +29,7 @@ The architecture of the APK must be compatible with the device you plan to insta
 > [!NOTE]
 > ### If you are patching Reddit with the RVX Manager:
 > 
-> If you want to patch a Reddit version newer than 2024.29.0 with the RVX Manager, you will need to convert the split/bundle APK (`.apkm`, `.apks`, `.xapk`, etc.) into a `.apk` using an anti-splitting tool, such as [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M). Note that Reddit versions 2025.40.0 and newer can only be patched using [ARSCLib](https://github.com/inotia00/revanced-documentation/blob/main/docs/latest-reddit-patch-info.md).
+> If you want to patch a Reddit version newer than 2024.29.0 with the RVX Manager, you will need to convert the split/bundle APK (`.apkm`, `.apks`, `.xapk`, etc.) into a `.apk` using an anti-splitting tool, such as [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M). Note that Reddit versions 2025.40.0 and newer can only be patched using [ARSCLib](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/latest-reddit-patch-info.md).
 
 
 > [!NOTE]

@@ -16,16 +16,16 @@ Patching Reddit v2025.40.0+
 
 ## RVX-Builder (PC)
 
-1. Download the [rvx-builder executable](https://github.com/inotia00/rvx-builder/releases/latest) and run it.
+1. Download the [rvx-builder executable](https://github.com/leagueofperez/rvx-builder/releases/latest) and run it.
 
-2. A GUI will open in your browser. Open the rvx-builder settings and enable the `ARSCLib` toggle. Then, click `Home` and patch a Reddit APK. Refer to this [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#using-rvx-builder-windows--macos--linux) for more details.
+2. A GUI will open in your browser. Open the rvx-builder settings and enable the `ARSCLib` toggle. Then, click `Home` and patch a Reddit APK. Refer to this [this document](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/rvx-builder%20(pc).md#using-rvx-builder-windows--macos--linux) for more details.
 
 
 ## RVX-Builder (Android - Termux)
 
-1. Install rvx-builder in Termux and run it as described in [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#installing-rvx-builder-for-the-first-time).
+1. Install rvx-builder in Termux and run it as described in [this document](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#installing-rvx-builder-for-the-first-time).
 
-2. A GUI will open in your browser. Open the rvx-builder settings and enable the `ARSCLib` toggle. Then, press `Home` and patch a Reddit APK. Refer to this [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#using-rvx-builder-termux) for more details.
+2. A GUI will open in your browser. Open the rvx-builder settings and enable the `ARSCLib` toggle. Then, press `Home` and patch a Reddit APK. Refer to this [this document](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/rvx-builder%20(android).md#using-rvx-builder-termux) for more details.
 
 
 ## ReVanced CLI (PC)

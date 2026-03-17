@@ -8,7 +8,7 @@ Requirements
 Using RVX Manager
 ==
 
-1. Follow the steps on [this page](https://github.com/inotia00/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch.
+1. Follow the steps on [this page](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/supplying-an-apk.md) to supply and prepare an APK to patch.
 
 
 2. Download [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest) from GitHub and install it on your device.
@@ -34,7 +34,7 @@ Using RVX Manager
 <img src="/images/rvx_manager_4.png" width="400"/>
 
 
-- Read [this document](https://github.com/inotia00/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Default` button.
+- Read [this document](https://github.com/leagueofperez/revanced-documentation/blob/main/docs/information-about-patches.md) for information on patches you may want to include or exclude. Otherwise, just click the `Default` button.
 
 > [!IMPORTANT]
 > For ROOT YouTube / YT Music installations, the `GmsCore support` patch must be excluded. For non-ROOT installations, the patch must be included.
